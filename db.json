@@ -2,17 +2,17 @@
   "spiceblends": [
     {
       "id": 1,
-      "title": "Pumpkin Spice",
+      "title": "hhh",
       "image": "./assets/spices/pumpkinspicelatte.jpg"
     },
     {
       "id": 2,
-      "title": "Za'atar",
+      "title": "faatar",
       "image": "./assets/spices/zaatar.jpg"
     },
     {
       "id": 3,
-      "title": "Garlic Pepper Salt",
+      "title": "ggg",
       "image": "./assets/spices/garlicsalt.jpg"
     },
     {
@@ -106,6 +106,51 @@
       "name": "Pepper",
       "spiceblendId": 3,
       "id": 17
+    },
+    {
+      "name": "fff",
+      "spiceblendId": 1,
+      "id": 20
+    },
+    {
+      "name": "bread",
+      "spiceblendId": 1,
+      "id": 21
+    },
+    {
+      "name": "bread",
+      "spiceblendId": 1,
+      "id": 22
+    },
+    {
+      "name": "fish eggs",
+      "spiceblendId": 1,
+      "id": 23
+    },
+    {
+      "name": "kidneys",
+      "spiceblendId": 1,
+      "id": 24
+    },
+    {
+      "name": "fff",
+      "spiceblendId": 3,
+      "id": 25
+    },
+    {
+      "name": "poop chips",
+      "spiceblendId": 2,
+      "id": 26
+    },
+    {
+      "name": "chia",
+      "spiceblendId": 2,
+      "id": 27
+    },
+    {
+      "name": "chia",
+      "spiceblendId": 2,
+      "id": 28
     }
   ]
 }
